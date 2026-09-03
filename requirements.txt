@@ -1,0 +1,4 @@
+The following libraries are need to be installed before executing the code:
+NumPy
+Matplotlib
+Pillow
