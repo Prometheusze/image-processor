@@ -48,6 +48,7 @@ image-processor/
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
+├── results.png
 └── images.jpg
 ```
 
