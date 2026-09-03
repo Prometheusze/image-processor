@@ -45,6 +45,7 @@ The results are then displayed together for visual comparison.
 image-processor/
 │
 ├── Image_processor.ipynb
+├── LICENSE
 ├── README.md
 ├── requirements.txt
 └── images.jpg
