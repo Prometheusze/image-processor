@@ -2,7 +2,7 @@
 
 A image processing project built with Python, NumPy, PIL, and Matplotlib. This project explores fundamental image manipulation techniques by performing transformations directly on image arrays.
 
-## Features
+## ✨Features
 
 * Image size and dimension analysis
 * Image data type and pixel-range analysis
@@ -14,7 +14,7 @@ A image processing project built with Python, NumPy, PIL, and Matplotlib. This p
 * Vertical flipping
 * Visual comparison of all transformations
 
-## Tech Stack
+## 🛠️Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -24,7 +24,7 @@ A image processing project built with Python, NumPy, PIL, and Matplotlib. This p
 | Matplotlib | Image loading and visualization |
 | Jupyter Notebook | Development and experimentation |
 
-## How It Works
+## ⚙️How It Works
 
 The project loads an RGB image and converts it into a NumPy array for processing.
 
@@ -39,7 +39,7 @@ The following operations are implemented from scratch using array manipulation:
 
 The results are then displayed together for visual comparison.
 
-## Project Structure
+## 🏗️Project Structure
 
 ```text
 image-processor/
@@ -54,7 +54,7 @@ image-processor/
 
 > The output images generated while running the notebook are not stored as a separate folder in the repository. Instead, the final processed results are showcased in this README.
 
-## Results
+## 🎯Results
 
 The notebook demonstrates the original image alongside the following transformations:
 
@@ -65,11 +65,11 @@ The notebook demonstrates the original image alongside the following transformat
 * Horizontal flip
 * Vertical flip
 
-### Output
+### 📊Output
 
 ![Image Processing Results](results.png)
 
-## Installation & Usage
+## 📥Installation & Usage
 
 ### 1. Clone the repository
 
@@ -92,7 +92,7 @@ jupyter notebook Image_processor.ipynb
 
 Make sure `images.jpg` is present in the repository before running the notebook.
 
-## Requirements
+## 📑Requirements
 
 The project requires:
 
@@ -108,7 +108,7 @@ You can install all dependencies using:
 pip install -r requirements.txt
 ```
 
-## Learning Goals
+## 🧩Learning Goals
 
 This project was created to practice:
 
@@ -120,7 +120,7 @@ This project was created to practice:
 * Converting between NumPy arrays and PIL images
 * Visualizing image-processing results with Matplotlib
 
-## Future Improvements
+## 📈Future Improvements
 
 * Add more image-processing operations
 * Add image rotation and resizing
